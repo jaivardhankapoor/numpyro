@@ -1,3 +1,9 @@
+# Pull Request TODO:
+
+add (S)GMCMC algorithms from pytorch to jax.
+
+---------------------------------------------------------------------------------------------------
+
 [![Build Status](https://travis-ci.com/pyro-ppl/numpyro.svg?branch=master)](https://travis-ci.com/pyro-ppl/numpyro)
 [![Documentation Status](https://readthedocs.org/projects/numpyro/badge/?version=latest)](https://numpyro.readthedocs.io/en/latest/?badge=latest)
 [![Latest Version](https://badge.fury.io/py/numpyro.svg)](https://pypi.python.org/pypi/numpyro)
